@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Conan con layout</string>
+    <string name="nombre">Conan EL Bárbaro</string>
+    <string name="ocupacion">Guerrero Histórico</string>
+    <string name="ciudad">La aldea de Conan</string>
+    <string name="fuerza">600 / 1000</string>
+    <string name="armas">520 / 1000</string>
+    <string name="strong">Fuerza</string>
+    <string name="victimas">Víctimas</string>
+    <string name="num_victimas">4200</string>
+    <string name="armas_t">Armas</string>
+    <string name="titulo">Sobre Conan</string>
+    <string name="cuerpo">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+        esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
+        qui officia deserunt mollit anim id est laborum
+    </string>
+    <string name="background">background</string>
+
+</resources>
